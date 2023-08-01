@@ -11,5 +11,7 @@ public class HWDemo {
 		
 		System.out.println("Juan's first pull");
 		
+		System.out.println("Second pull Juan...");
+		
 	}
 }
