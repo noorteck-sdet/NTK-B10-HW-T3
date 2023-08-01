@@ -9,5 +9,7 @@ public class HWDemo {
 		
 		System.out.println("Applying second changes by Teresa....");
 		
+		System.out.println("Juan's first pull");
+		
 	}
 }
