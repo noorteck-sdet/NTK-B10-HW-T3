@@ -18,6 +18,8 @@ public class HWDemo {
 		
 		// and this the second one . Rusol
 		System.out.println(" Second try");
+		
+		System.out.println("Yasir's 1");
 
 			
 	}
