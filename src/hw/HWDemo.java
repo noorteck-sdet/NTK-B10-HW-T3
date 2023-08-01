@@ -6,5 +6,8 @@ public class HWDemo {
 		System.out.println("HW");
 		
 		System.out.println("Applying first changes...");
+		
+		System.out.println("Applying second changes by Teresa....");
+		
 	}
 }
