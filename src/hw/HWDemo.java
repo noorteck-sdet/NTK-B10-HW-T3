@@ -29,5 +29,7 @@ public class HWDemo {
 			
 		System.out.println("Sue's first push");
 		
+		System.out.println("Sue's first try was a success, let's try again");
+		
 	}
 }
