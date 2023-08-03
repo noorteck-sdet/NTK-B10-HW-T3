@@ -27,5 +27,7 @@ public class HWDemo {
 		
 		System.out.println(".....");
 			
+		System.out.println("Sue's first push");
+		
 	}
 }
